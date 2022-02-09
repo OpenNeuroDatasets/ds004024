@@ -13,7 +13,9 @@
     "Acknowledgements": "We thank Mainak Jas for expert advice on BIDS.",
     "License": "CC0",
     "HowToAcknowledge": "Hernandez Pavon JC, Schneider Garces N, Begnoche JP, Miller LE, Raij T (2022) Submitted.",
-    "EthicsApprovals": [],
+    "EthicsApprovals": [
+        "STU00204239"
+    ],
     "Funding": [
         "Dr. Ralph and Marian Falk Medical Research Trust"
     ],
